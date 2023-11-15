@@ -1,8 +1,5 @@
 # Capstone-Booking-a-table-on-the-Little-Lemon-website
-Screenshot
-
-
-
+Screenshots
 
 ![226729826-bf712977-9165-40e7-ab62-93cd6bf47ef7](https://github.com/siobhanmcgorty/Capstone-Booking-a-table-on-the-Little-Lemon-website/assets/127350136/f25d825b-bb4f-4ae7-9f5b-4f6575859fdb)
 ![226729975-8cb4f6c3-e0f5-4271-bd8b-8a2f04bb623e](https://github.com/siobhanmcgorty/Capstone-Booking-a-table-on-the-Little-Lemon-website/assets/127350136/1e634fb7-0ff1-4b48-b504-5f9f276e7138)
